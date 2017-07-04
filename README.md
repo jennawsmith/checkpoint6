@@ -1,27 +1,3 @@
-# Dependencies
-You'll need the following installed on your computer:
+This project is for educational purposes, I have no affiliation with Wally's Printing.
 
-* Node
-* Bower
-* Gulp
-* Yarn
-
-
-# QuickStart
-
-1. Clone this repository.
-2. Navigate to your project folder within the Terminal and run `yarn install`.
-3. Run `bower install`.
-4. Run `gulp`.
-
----
-
-# Help! I'm a newbie!
-
-## Installing node
-
-## Installing bower
-
-## Installing gulp
-
-## Installing yarn
+This project was to include responsive design, practice with sass, flexbox and web animations. 
